@@ -1,6 +1,6 @@
 import React from 'react';
 import MenuCards from '../../templates/menu/MenuCards';
-
+import './mainMenu.css'
 const MainMenu = () => {
     return(
 

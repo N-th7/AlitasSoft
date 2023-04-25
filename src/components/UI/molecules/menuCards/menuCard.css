@@ -1,0 +1,11 @@
+.contentCard{
+    background-color: #d9d9d99b;
+    text-align: center;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    margin: 4.16%;
+}
+img{
+    width: 80%;
+    padding-top: 5%;
+}
