@@ -9,3 +9,8 @@ img{
     width: 80%;
     padding-top: 5%;
 }
+
+.contentCard:hover{
+    cursor: pointer;
+    box-shadow: 5px -5px #00000024;
+}
