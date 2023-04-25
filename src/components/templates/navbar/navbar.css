@@ -1,0 +1,22 @@
+.navbarContent{
+    background-color: #664631;
+    padding: 1%;
+    text-align: right;
+}
+
+.login{
+    background-color: #FF0000;
+    color: white;
+    padding-inline: 1.5%;
+    padding-block: 0.2%;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border: 0;
+}
+
+
+.login:hover {
+    background-color: #ffffff;
+    color: black;
+    cursor: pointer;
+}
